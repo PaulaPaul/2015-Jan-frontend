@@ -1,0 +1,10 @@
+body {
+  background: url(http://fc04.deviantart.net/fs71/i/2012/129/c/6/pinky_and_the_brain_by_lonewolf16-d4z5rp7.jpg);
+  background-size: cover;
+  margin: 40px auto;
+}
+
+h1 {                         /* this is a CSS selector   */
+  font-weight: bold;         /* these are CSS properties */
+  color: #C00000;            /* these are CSS properties */
+}
